@@ -1,5 +1,9 @@
 [
   {
+    "package": "paramtest",
+    "oncran": true
+  },
+  {
     "package": "reghelper",
     "oncran": true
   }
