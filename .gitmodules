@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "paramtest"]
 	path = paramtest
 	url = https://github.com/jeff-hughes/paramtest
-	shallow = true
-	registered = true
 [submodule "reghelper"]
 	path = reghelper
 	url = https://github.com/jeff-hughes/reghelper
-	shallow = true
-	registered = true
